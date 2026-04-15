@@ -1,3 +1,9 @@
+<img width="2330" height="1275" alt="Captura de pantalla 2026-04-15 224835" src="https://github.com/user-attachments/assets/6b5d6919-ddde-43b6-9f77-2b7505db5963" />
+<img width="2332" height="1271" alt="Captura de pantalla 2026-04-15 224815" src="https://github.com/user-attachments/assets/4af970e2-5c50-4b47-9d5f-17eb62d29478" />
+<img width="2330" height="1281" alt="Captura de pantalla 2026-04-15 224747" src="https://github.com/user-attachments/assets/3ff2ca64-7225-4128-bdfa-127da2313aee" />
+<img width="2351" height="1116" alt="Captura de pantalla 2026-04-15 224659" src="https://github.com/user-attachments/assets/aeccfbe2-bab6-4c6a-84b4-2440e30a9066" />
+<img width="2327" height="1277" alt="Captura de pantalla 2026-04-15 224623" src="https://github.com/user-attachments/assets/29430b7b-84c3-4e4a-a4a0-5aa0032a59a8" />
+<img width="2352" height="1255" alt="Captura de pantalla 2026-04-15 224540" src="https://github.com/user-attachments/assets/3afce474-3232-41dc-a90c-3bf0a98044a0" />
 # PhishGuard Pro v3.0
 
 **Framework profesional de analisis, seguimiento, auditoria e informe de phishing.**
